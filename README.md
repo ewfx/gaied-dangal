@@ -17,11 +17,10 @@
 Problem Statement - Commercial Bank Lending service teams receive a significant volume of service requests through emails. These emails contain diverse requests, often with attachments and will be ingested to the loan servicing platform and creates service requests which will go through the workflow processing. Incoming service requests (SR) via email require a manual triage process with "Gatekeeper".
 
 ## 🎥 Demo
-🔗 [Live Demo](#) (if applicable)  
 📹 [Video Demo](#) (if applicable)  
 🖼️ Screenshots:
 
-![Screenshot 1](link-to-image)
+
 
 ## 💡 Inspiration
 This challange is to automate email classification and data extraction using Generative AI (LLMs) and eliminate the manual triage process with "Gatekeeper".
@@ -44,7 +43,12 @@ Technologies, frameworks, and tools used in development.
 5. Python Libraries – PyMuPDF, docx, pytesseract, Imgage, BytesParser, policy to process PDF, DOC & Image attachments
 
 ## 🚧 Challenges We Faced
-Describe the major technical or non-technical challenges your team encountered.
+Major technical or non-technical challenges our team encountered -
+**Data Quality**: Ensuring high-quality, relevant, and unbiased training data is crucial for effective model performance.
+**High Resource** Consumption: Running LLMs locally require significant computational power, memory, and storage.
+**Development Costs**: Managing the high costs associated with using LLMs with their API Keys.
+**Accuracy and Reliability**: Ensuring the model generates accurate and reliable responses, minimizing hallucinations or incorrect outputs.
+**Latency**: Reducing the time taken to generate responses to ensure a seamless user experience.
 
 ## 🏃 How to Run
 1. Clone the repository  
@@ -53,13 +57,13 @@ Describe the major technical or non-technical challenges your team encountered.
    ```
 2. Install dependencies  
    ```sh
-   npm install (for React)
-   pip install -r requirements.txt (for Python)
+   npm install #(for React)
+   pip install -r requirements.txt #(for Python)
    ```
 3. Run the project  
    ```sh
-   npm start (for UI)
-   python app.py (for Backend)
+   npm start #(for UI)
+   python app.py #(for Backend)
    ```
 
 ## 🏗️ Tech Stack
@@ -68,8 +72,8 @@ Describe the major technical or non-technical challenges your team encountered.
 - 🔹 Gen AI LLMs: LLaMA, GPT & Gemini
 
 ## 👥 Team Dangal
-- **Madan Mohan** - [LinkedIn](#)
-- **Sakshi** - [LinkedIn](#)
-- **Prasanna** - [LinkedIn](#)
-- **Tanuja** - [LinkedIn](#)
-- **Rajendhar** - [LinkedIn](#)
+- **Gangireddy, Madan Mohan Reddy**
+- **Srivastava, Sakshi**
+- **Undapalli SVVSV Prasanna U**
+- **Yalla, Tanuja**
+- **Gangoni, Rajendhar**
