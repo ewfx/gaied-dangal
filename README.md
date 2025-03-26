@@ -17,7 +17,7 @@
 **Problem Statement** - Commercial Bank Lending service teams receive a significant volume of service requests through emails. These emails contain diverse requests, often with attachments and will be ingested to the loan servicing platform and creates service requests which will go through the workflow processing. Incoming service requests (SR) via email require a manual triage process with "Gatekeeper".
 
 ## 🎥 Demo
-📹 [Video Demo](#) (if applicable)  
+📹 [Video Demo](https://github.com/ewfx/gaied-dangal/blob/main/artifacts/demo/DangalDemo.mp4) (if applicable)  
 🖼️ Screenshots:
 
 ![home](https://github.com/user-attachments/assets/bb42e299-ec15-4fb4-bef4-260cbc713314)
