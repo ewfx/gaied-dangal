@@ -14,7 +14,7 @@
 ---
 
 ## 🎯 Introduction
-Problem Statement - Commercial Bank Lending service teams receive a significant volume of service requests through emails. These emails contain diverse requests, often with attachments and will be ingested to the loan servicing platform and creates service requests which will go through the workflow processing. Incoming service requests (SR) via email require a manual triage process with "Gatekeeper".
+**Problem Statement** - Commercial Bank Lending service teams receive a significant volume of service requests through emails. These emails contain diverse requests, often with attachments and will be ingested to the loan servicing platform and creates service requests which will go through the workflow processing. Incoming service requests (SR) via email require a manual triage process with "Gatekeeper".
 
 ## 🎥 Demo
 📹 [Video Demo](#) (if applicable)  
@@ -26,7 +26,7 @@ Problem Statement - Commercial Bank Lending service teams receive a significant 
 This challange is to automate email classification and data extraction using Generative AI (LLMs) and eliminate the manual triage process with "Gatekeeper".
 
 ## ⚙️ What It Does
-Functionalities of your project.
+Functionalities of our project -
 1. Read all the emails (.eml format) from any folder (configurable).
 2. Process the email body and attachments (.pdf, .doc, .jpg formats) and extract the content.
 3. Pass the email content as a prompt to different Gen AI LLM models like GPT, LLaMA, Gemini (configurable).
@@ -35,7 +35,7 @@ Functionalities of your project.
 
 
 ## 🛠️ How We Built It
-Technologies, frameworks, and tools used in development.
+Technologies, frameworks, and tools used in development -
 1. React & Node JS for UI development
 2. Python Fast API for Rest API development
 3. UVICon as Web Server to receive request from UI clients & send response to it.
@@ -44,11 +44,11 @@ Technologies, frameworks, and tools used in development.
 
 ## 🚧 Challenges We Faced
 Major technical or non-technical challenges our team encountered -
-**Data Quality**: Ensuring high-quality, relevant, and unbiased training data is crucial for effective model performance.
-**High Resource** Consumption: Running LLMs locally require significant computational power, memory, and storage.
-**Development Costs**: Managing the high costs associated with using LLMs with their API Keys.
-**Accuracy and Reliability**: Ensuring the model generates accurate and reliable responses, minimizing hallucinations or incorrect outputs.
-**Latency**: Reducing the time taken to generate responses to ensure a seamless user experience.
+- **Data Quality**: Ensuring high-quality, relevant, and unbiased training data is crucial for effective model performance.
+- **High Resource** Consumption: Running LLMs locally require significant computational power, memory, and storage.
+- **Development Costs**: Managing the high costs associated with using LLMs with their API Keys.
+- **Accuracy and Reliability**: Ensuring the model generates accurate and reliable responses, minimizing hallucinations or incorrect outputs.
+- **Latency**: Reducing the time taken to generate responses to ensure a seamless user experience.
 
 ## 🏃 How to Run
 1. Clone the repository  
