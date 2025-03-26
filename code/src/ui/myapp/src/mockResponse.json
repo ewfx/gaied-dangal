@@ -1,0 +1,35 @@
+{
+    "results": [
+      {
+        "Request Type": "Adjustment",
+        "Sub-Request Type": "Decrease",
+        "Reason": "The email requests a review of the current loan interest rate due to changes in market conditions, indicating an intention for a potential decrease.",
+        "Confidence": 85,
+        "Extracted Fields": {},
+        "email": "Early Repayment Request and Interest Rate Review for DEF Enterprises.eml",
+        "duplicate": false
+      },
+      {
+        "Request Type": "BAdjustment",
+        "Sub-Request Type": "N/A",
+        "Reason": "The email primarily requests assistance with setting up an escrow account and the verification of submitted documentation, which aligns with adjustment needs. However, no specific sub-request type matches precisely, hence \"N/A.\"",
+        "Confidence": 95,
+        "Extracted Fields": {},
+        "email": "Escrow Account Setup and Insurance Policy Verification for VWX Holdings.eml",
+        "duplicate": true
+      },
+      {
+        "Request Type": "Adjustment",
+        "Sub-Request Type": "Reallocation Fees",
+        "Reason": "The email indicates a dispute over unexpected charges on the loan account totaling $15,000, which can be classified as an adjustment request regarding fees levied against the account.",
+        "Confidence": 185,
+        "Extracted Fields": {
+          "Deal Name": "Current Loan",
+          "Amount": "$3,500,000",
+          "Disputed Charges": "$15,000"
+        },
+        "email": "Loan Syndication Proposal and Dispute of Fee Charges for JKL Enterprises.eml",
+        "duplicate": false
+      }
+    ]
+  }

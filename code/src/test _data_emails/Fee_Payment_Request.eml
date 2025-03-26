@@ -1,0 +1,49 @@
+Subject: Fee Payment Request Confirmation
+From: banking-services@commercialbank.com
+To: client@businesscorp.com
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============3878190443013860838=="
+
+--===============3878190443013860838==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Dear Valued Customer,
+
+We have received your fee payment request. Our team is reviewing the details =
+and will process it within 2 business days.
+
+Request ID: REQ-20240325-005
+
+Best Regards,
+Commercial Banking Services
+
+--===============3878190443013860838==
+Content-Type: application/pdf
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="Fee_Payment_Request.pdf"
+MIME-Version: 1.0
+
+JVBERi0xLjMKMyAwIG9iago8PC9UeXBlIC9QYWdlCi9QYXJlbnQgMSAwIFIKL1Jlc291cmNlcyAy
+IDAgUgovQ29udGVudHMgNCAwIFI+PgplbmRvYmoKNCAwIG9iago8PC9GaWx0ZXIgL0ZsYXRlRGVj
+b2RlIC9MZW5ndGggMzAwPj4Kc3RyZWFtCnicZZFNU8IwFEX3/Iq71BmIadJS6pKvGd2o2NF1pA+I
+tikmKR3+vWkBHYftyz2Tc98TeBxwlqRoB9Mcd8sIkWCcI99gkXcjEY1ZHCPNEpamyAvcLInwrI4V
+GY8VfTfkPGa12WhbKa9rc4v88wzLiEUZUpkxfmLnpCzeVNlQgVnjfF2RHV4AzmT3RftHjieCyUlP
+vhN26kCwtCZ9CPixbiw2wWV/drEnF4an8OBJVdAuDA+aWm228DtCQV7p0g2hTIGW0OqyxN7Wa3Lu
+1+K/QRIzLnsD7UPe77SBwEfjtAkQCnV07KpxkqVMxj112dDD/B6rxctIcBFzKZIR58k1F3M2Tnpu
+2kEr2ipbuOF1MFxJ8j44q6uwxLVWJabKfHVVX8kedOh0wX4AU0GJ3QplbmRzdHJlYW0KZW5kb2Jq
+CjEgMCBvYmoKPDwvVHlwZSAvUGFnZXMKL0tpZHMgWzMgMCBSIF0KL0NvdW50IDEKL01lZGlhQm94
+IFswIDAgNTk1LjI4IDg0MS44OV0KPj4KZW5kb2JqCjUgMCBvYmoKPDwvVHlwZSAvRm9udAovQmFz
+ZUZvbnQgL0hlbHZldGljYQovU3VidHlwZSAvVHlwZTEKL0VuY29kaW5nIC9XaW5BbnNpRW5jb2Rp
+bmcKPj4KZW5kb2JqCjIgMCBvYmoKPDwKL1Byb2NTZXQgWy9QREYgL1RleHQgL0ltYWdlQiAvSW1h
+Z2VDIC9JbWFnZUldCi9Gb250IDw8Ci9GMSA1IDAgUgo+PgovWE9iamVjdCA8PAo+Pgo+PgplbmRv
+YmoKNiAwIG9iago8PAovUHJvZHVjZXIgKFB5RlBERiAxLjcuMiBodHRwOi8vcHlmcGRmLmdvb2ds
+ZWNvZGUuY29tLykKL0NyZWF0aW9uRGF0ZSAoRDoyMDI1MDMyNjE0NTUzNikKPj4KZW5kb2JqCjcg
+MCBvYmoKPDwKL1R5cGUgL0NhdGFsb2cKL1BhZ2VzIDEgMCBSCi9PcGVuQWN0aW9uIFszIDAgUiAv
+Rml0SCBudWxsXQovUGFnZUxheW91dCAvT25lQ29sdW1uCj4+CmVuZG9iagp4cmVmCjAgOAowMDAw
+MDAwMDAwIDY1NTM1IGYgCjAwMDAwMDA0NTcgMDAwMDAgbiAKMDAwMDAwMDY0MCAwMDAwMCBuIAow
+MDAwMDAwMDA5IDAwMDAwIG4gCjAwMDAwMDAwODcgMDAwMDAgbiAKMDAwMDAwMDU0NCAwMDAwMCBu
+IAowMDAwMDAwNzQ0IDAwMDAwIG4gCjAwMDAwMDA4NTMgMDAwMDAgbiAKdHJhaWxlcgo8PAovU2l6
+ZSA4Ci9Sb290IDcgMCBSCi9JbmZvIDYgMCBSCj4+CnN0YXJ0eHJlZgo5NTYKJSVFT0YK
+
+--===============3878190443013860838==--

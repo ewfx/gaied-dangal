@@ -1,0 +1,20 @@
+Summary of Test Cases: -
+------------------------------
+1) test_emails_processing_results_not_empty: Ensures the response contains the "results" key and it is a list of dictionaries.
+2) test_emails_processing_result_structure: Validates that each result contains all the required fields.
+3) test_emails_processing_result_values: Validates the values of the fields in each result.
+4) test_emails_processing_extracted_fields: Ensures that the "Extracted Fields" dictionary contains the correct fields for specific results.
+5) test_emails_processing_reason_field: Ensures that the "Reason" field is a string.
+
+
+How to run API Test Scripts:-
+---------------------------------
+1) install pytest and pytest-html packages using below command
+pip install pytest pytest-html
+
+2) Check Installation: Make sure pytest is installed using below command
+pip show pytest
+pip show pytest-html
+
+3) update the BASE_URL in api_test.py file and run the below command in the same folder as api_test.py file is present
+python -m pytest --html=api_test_report.html --self-contained-html

@@ -1,0 +1,4 @@
+pip install fastapi uvicorn pydantic
+pip install email-parser pdfplumber python-docx pypdf
+pip install openai
+pip install ollama

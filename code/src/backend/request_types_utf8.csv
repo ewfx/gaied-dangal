@@ -1,0 +1,123 @@
+﻿Request Type,Sub Request Type
+Adjustment,
+AU Transfer,
+Closing Notice,"Reallocation Fees,
+Amendment Fees,
+Reallocation Principal"
+Commitment Change,"Cashless Roll,
+Decrease,
+Increase"
+Fee Payment,"Ongoing Fee,
+Letter of Credit Fee"
+Money Movement - Inbound,"Principal,
+Interest,
+Principal + Interest,
+Principal + Interest + Fee"
+Money Movement – Outbound,"Timebound,
+Foreign Currency"
+Loan Application Processing,"New Loan Application
+Documentation Submission
+Application Verification
+Credit Check
+Application Status Inquiry"
+Loan Approval and Underwriting,"Risk Assessment
+Collateral Evaluation
+Loan Terms Negotiation
+Approval Status Inquiry"
+Loan Disbursement,"Disbursement Schedule Setup
+Fund Transfer
+Disbursement Confirmation
+Disbursement Status Inquiry"
+Loan Repayment Scheduling,"Repayment Plan Setup
+Schedule Adjustment
+Payment Method Change
+Repayment Schedule Inquiry"
+Loan Amortization,"Amortization Schedule Calculation
+Amortization Table Request
+Early Amortization Calculation"
+Loan Refinancing,"Refinancing Application
+Rate Comparison
+Refinancing Terms Negotiation"
+Loan Restructuring,"Restructuring Proposal Submission
+Terms Adjustment
+Financial Hardship Assessment
+Restructuring Status Inquiry"
+Loan Extensions and Renewals,"Extension Request
+Renewal Application
+Extension/Renewal Terms Negotiation
+Status Inquiry"
+Loan Prepayment,"Prepayment Calculation
+Prepayment Request Submission
+Penalty Assessment
+Prepayment Confirmation"
+Interest Rate Adjustment,"Rate Adjustment Request
+Market Rate Inquiry
+Adjustment Approval
+New Rate Confirmation"
+Collateral Management,"Collateral Submission
+Collateral Valuation
+Collateral Release Request
+Collateral Status Inquiry"
+Loan Covenant Monitoring,"Covenant Compliance Check
+Covenant Breach Notification
+Covenant Waiver Request"
+Loan Delinquency Management,"Delinquency Notification
+Payment Arrangement Setup
+Late Fee Assessment
+Delinquency Status Inquiry"
+Loan Default Management,"Default Notification
+Legal Action Initiation
+Recovery Plan Setup
+Default Status Inquiry"
+Loan Write-offs,"Write-off Request
+Loss Calculation
+Write-off Approval
+Write-off Confirmation"
+Customer Account Maintenance,"Account Information Update
+Contact Information Change
+Account Closure Request
+Account Status Inquiry"
+Payment Processing,"Payment Submission
+Payment Confirmation
+Payment Method Update
+Payment Status Inquiry"
+Statement Generation and Reporting,"Statement Request
+Report Generation
+Statement Discrepancy Inquiry"
+Customer Support and Inquiry Handling,"General Inquiry
+Complaint Submission
+Support Ticket Creation
+Inquiry Status Update"
+Regulatory Compliance and Reporting,"Compliance Check
+Regulatory Report Submission
+Audit Preparation"
+Credit Risk Assessment and Management,"Risk Assessment Request
+Risk Mitigation Plan
+Risk Monitoring"
+Portfolio Management,"Portfolio Review
+Performance Analysis
+Portfolio Adjustment Request"
+Document Management and Retrieval,"Document Submission
+Document Retrieval
+Document Update
+Document Status Inquiry"
+Fee and Charge Management,"Fee Assessment
+Charge Dispute
+Fee Adjustment Request"
+Audit and Quality Control,"Internal Audit Request
+Quality Control Check
+Audit Report Submission"
+Loan Syndication and Participation,"Syndication Proposal
+Participation Agreement
+Syndication Status Inquiry"
+Loan Servicing Transfers,"Servicing Transfer Request
+Transfer Confirmation
+Transfer Status Inquiry"
+Escrow Management,"Escrow Account Setup
+Escrow Disbursement
+Escrow Account Inquiry"
+Insurance Verification and Tracking,"Insurance Policy Submission
+Verification Status Inquiry"
+Tax Service Management,"Tax Service Setup
+Tax Reporting
+Tax Status Inquiry"
