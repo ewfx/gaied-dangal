@@ -24,6 +24,7 @@
 
 ![result](https://github.com/user-attachments/assets/b97a2111-54e3-48cd-9256-caefa744a937)
 
+![API](https://github.com/user-attachments/assets/de281377-856e-40a2-84c8-62ab73d71daf)
 
 ## 💡 Inspiration
 This challange is to automate email classification and data extraction using Generative AI (LLMs) and eliminate the manual triage process with "Gatekeeper".
