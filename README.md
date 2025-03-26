@@ -20,6 +20,9 @@
 📹 [Video Demo](#) (if applicable)  
 🖼️ Screenshots:
 
+![home](https://github.com/user-attachments/assets/bb42e299-ec15-4fb4-bef4-260cbc713314)
+
+![result](https://github.com/user-attachments/assets/b97a2111-54e3-48cd-9256-caefa744a937)
 
 
 ## 💡 Inspiration
