@@ -68,8 +68,8 @@ Describe the major technical or non-technical challenges your team encountered.
 - 🔹 Gen AI LLMs: LLaMA, GPT & Gemini
 
 ## 👥 Team Dangal
-- **Madan Mohan** - [GitHub](#) | [LinkedIn](#)
-- **Sakshi** - [GitHub](#) | [LinkedIn](#)
-- **Prasanna** - [GitHub](#) | [LinkedIn](#)
-- **Tanuja** - [GitHub](#) | [LinkedIn](#)
-- **Rajendhar** - [GitHub](#) | [LinkedIn](#)
+- **Madan Mohan** - [LinkedIn](#)
+- **Sakshi** - [LinkedIn](#)
+- **Prasanna** - [LinkedIn](#)
+- **Tanuja** - [LinkedIn](#)
+- **Rajendhar** - [LinkedIn](#)
